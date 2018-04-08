@@ -2,6 +2,10 @@ The goal was to build a lightweight React application (using [create-react-app](
 
 CSS styling was inspired by [startbootstrap-resume](https://github.com/BlackrockDigital/startbootstrap-resume).
 
+## Preview
+
+![Preview](https://i.imgur.com/PObB1mO.png)
+
 ## Usage
 
 There are 3 things you need to do in order to update the webpage for yourself:
