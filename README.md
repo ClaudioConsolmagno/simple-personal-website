@@ -15,3 +15,10 @@ There are 3 things you need to do in order to update the webpage for yourself:
 * `public/favicon.ico` - Change it to the webpage owner's favicon.
 
 After changes above are done, a simple `npm install` followed by `npm start` should get you up and running.
+
+## Updating Dependencies
+
+```
+$ npx npm-check-updates -u
+$ npm install 
+```
