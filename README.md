@@ -18,7 +18,7 @@ After changes above are done, a simple `npm install` followed by `npm start` sho
 
 ## Updating Dependencies
 
-```
-$ npx npm-check-updates -u
-$ npm install 
+```bash
+npx npm-check-updates -u
+npm install 
 ```
